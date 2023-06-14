@@ -4,5 +4,3 @@
 💻 I am constantly striving to improve my skills in programming languages such as Python, Java, and C, while staying updated on the latest industry trends and technologies.
 
 - 😄 Pronouns: She
-
-
