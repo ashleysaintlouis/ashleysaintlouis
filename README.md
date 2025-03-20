@@ -1,19 +1,29 @@
-## Hi! My name is Ashley Saint Louis.
+<body color="#010203">
+<h1 align="center">Hi! My name is <span color="FE676E">Ashley</span> Saint Louis. <span>😄 Pronoun: She</span></h1>
+<!---->
+<div align="center"> 
+ <img align="center" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-trabalho-em-andamento_114360-7183.jpg?t=st=1742483876~exp=1742487476~hmac=ea4db08c020852ec8a4de470c5d6c36697b16c452216a7477e1a2c7a8ee95341&w=740"
+  height="600" width="800">
+</div>
+<br/>
 
-📚 Passionate about technology, I decided to pursue a degree in Computer Science to delve into the vast world of programming, algorithms, and information systems.                                                                                                                              
-💻 I am constantly striving to improve my skills in programming languages such as Python, Java, and C, while staying updated on the latest industry trends and technologies.
-
-- 😄 Pronouns: She
+<div width="600">
+ <p>💻 Developer with experience in C, Python, JavaScript, and React.js.  </p>
+ <p>📊 Passionate about data analysis and visualization with Power BI.</p>
+ <p>🚀 Working on projects involving optimization, file manipulation, and web development. </p>
+ <p>🌍 Focused on solutions for tourism and services, including booking platforms and industry data analysis.</p>  
+ <p>🎵 Creating a lyrics website for customizing song lyrics and images.</p>  
+ <p>📖 Always learning something new and looking for challenges!</p>  
+</div>
+<br/>
 
  <div>
    <a href="https://youtu.be/SyansEnfomatik" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ashleysaintloui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatosyansenfomatik23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ashley-saint-louis-5a8001264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
   </div>
-
+<br/><br/>
 
 <div align="left">
   <a href="https://github.com/ashleysaintlouis">
@@ -26,5 +36,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  
 </div>
+
+</body>
+
