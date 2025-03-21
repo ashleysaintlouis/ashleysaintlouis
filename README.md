@@ -3,7 +3,7 @@
 <!---->
 <div align="center"> 
  <img align="center" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-trabalho-em-andamento_114360-7183.jpg?t=st=1742483876~exp=1742487476~hmac=ea4db08c020852ec8a4de470c5d6c36697b16c452216a7477e1a2c7a8ee95341&w=740"
-  height="600" width="800">
+  height="400" width="600">
 </div>
 <br/>
 
@@ -16,8 +16,9 @@
  <p>📖 Always learning something new and looking for challenges!</p>  
 </div>
 <br/>
-
- <div>
+<!---->
+ <div align="center">
+  <p>**** Redes sociais ****</p>
    <a href="https://youtu.be/SyansEnfomatik" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ashleysaintloui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatosyansenfomatik23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,7 +26,7 @@
   </div>
 <br/><br/>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/ashleysaintlouis">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashleysaintlouis&show_icons=true&theme=dracula&include_all_commits=true&count_private=True"/>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashleysaintlouis&layout=compact&langs_count=7&theme=dracula"/>
